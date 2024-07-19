@@ -17,7 +17,7 @@ const Footer = () => {
             />
             <h2 className="text-xl font-bold -ml-3">Smart<span className='text-orange'>Rep</span> AI</h2>
           </aside>
-          <p>Contact us: info@smartrepai.com</p>
+          <p>Contact us: https://github.com/Piyushsharma2004</p>
         </div>
         <div>
           <div className="flex justify-center sm:justify-start space-x-6 py-2">
@@ -33,16 +33,16 @@ const Footer = () => {
               className="hover:text-pink-500">
                 <FaInstagram size={22}/>
             </Link>
-            <Link href="https://www.linkedin.com/in/jeffjiang13"
+            <Link href="https://www.linkedin.com/in/piyushsharmanova/"
               className="hover:text-blue-500">
               <FaLinkedinIn size={22}/>
             </Link>
-            <Link href="https://github.com/jeffjiang13"
+            <Link href="https://github.com/Piyushsharma2004"
               className="hover:text-gray-500">
               <FaGithub size={22}/>
             </Link>
           </div>
-          <p className="text-center sm:text-left">&copy; {new Date().getFullYear()} SmartRep. All rights reserved.</p>
+          <p className="text-center sm:text-left">&copy; {new Date().getFullYear()} Corinna AI. All rights reserved.</p>
         </div>
       </div>
     </footer>

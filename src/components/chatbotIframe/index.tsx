@@ -24,12 +24,12 @@ const ChatbotIframe = () => {
       }
     `);
 
-    iframe.src = "https://jj-smartrep.vercel.app/chatbot";
+    iframe.src = "https://swiftaichat.vercel.app//chatbot";
     iframe.classList.add('chat-frame');
     document.body.appendChild(iframe);
 
     const handleMessage = (e:any) => {
-      if (e.origin !== "https://jj-smartrep.vercel.app") return null;
+      if (e.origin !== "https://swiftaichat.vercel.app") return null;
       try {
         const dimensions = JSON.parse(e.data);
         iframe.style.width = dimensions.width + "px";
@@ -37,7 +37,7 @@ const ChatbotIframe = () => {
       } catch (error) {
         console.error('Invalid message data:', e.data);
       }
-      iframe.contentWindow?.postMessage("2531aab1-1ea1-446e-8e7e-bedf41ad9021", "https://jj-smartrep.vercel.app/");
+      iframe.contentWindow?.postMessage("2531aab1-1ea1-446e-8e7e-bedf41ad9021", "https://swiftaichat.vercel.app/");
     };
 
     window.addEventListener("message", handleMessage);

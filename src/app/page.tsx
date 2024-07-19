@@ -52,11 +52,11 @@ export default async function Home() {
           </span>
           <div className="animate-text bg-gradient-to-r from-orange via-yellow-200 to-yellow-300 bg-clip-text text-transparent font-black">
           <h1 className=" text-6xl sm:text-7xl md:text-9xl lg:text-[150px] xl:text-[200px] font-bold text-center mt-10">
-            SmartRep AI
+            Corinna AI
           </h1>
         </div>
           <p className="text-center max-w-[300px] md:max-w-[500px] mb-10">
-            Your AI powered sales assistant! Embed SmartRep AI into any website
+            Your AI powered sales assistant! Embed Corinna AI into any website
             with just a snippet of code!
           </p>
           <Link href="/dashboard">

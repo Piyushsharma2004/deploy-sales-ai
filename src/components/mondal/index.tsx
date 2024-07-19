@@ -38,7 +38,7 @@ const Modal = ({
                 <Image
                   src={`https://ucarecdn.com/2a39921c-a627-4efe-a86b-1afba8fea8f5/DALLE20240603200424CreateaprofessionalandmodernlogoforSmartRepAIanadvancedAIchatbotwithouttextThelogoshouldincorporateelementsofAIchatandaPhotoroom.png`}
                   fill
-                  alt="SmartRep"
+                  alt="Piyush"
                   className='-mt-[1.6rem] ml-[1.5rem]'
                 />
               </div>

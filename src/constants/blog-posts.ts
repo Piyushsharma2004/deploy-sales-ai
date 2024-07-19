@@ -4,33 +4,33 @@ export const blogPosts = [
       title: "Customer Service with Conversational AI",
       image: "/blogimages/customer-service.png",
       content: `
-        <p>SmartRep AI revolutionizes customer service by leveraging advanced conversational AI technology. This enables businesses to provide timely, accurate, and personalized support to their customers, enhancing overall user experience and satisfaction. Here are some key benefits:</p>
+        <p>Corinna AI revolutionizes customer service by leveraging advanced conversational AI technology. This enables businesses to provide timely, accurate, and personalized support to their customers, enhancing overall user experience and satisfaction. Here are some key benefits:</p>
 
         <h3>24/7 Availability</h3>
         <p>Conversational AI ensures that your customers have access to support at any time, day or night. This constant availability helps in addressing customer queries and issues promptly, reducing wait times and improving customer satisfaction.</p>
 
         <h3>Personalized Interactions</h3>
-        <p>SmartRep AI uses intelligent algorithms to understand and respond to customer queries in a personalized manner. By analyzing past interactions and customer data, it can provide tailored responses that meet individual needs and preferences.</p>
+        <p>Corinna AI uses intelligent algorithms to understand and respond to customer queries in a personalized manner. By analyzing past interactions and customer data, it can provide tailored responses that meet individual needs and preferences.</p>
 
         <h3>Efficiency and Scalability</h3>
-        <p>Automating customer service through AI reduces the workload on human agents, allowing them to focus on more complex tasks. SmartRep AI can handle multiple interactions simultaneously, making it scalable and efficient, particularly during peak times.</p>
+        <p>Automating customer service through AI reduces the workload on human agents, allowing them to focus on more complex tasks. Corinna AI can handle multiple interactions simultaneously, making it scalable and efficient, particularly during peak times.</p>
 
         <h3>Seamless Integration</h3>
-        <p>SmartRep AI integrates effortlessly with your existing systems, including CRM, email marketing, and payment gateways like Stripe. This integration ensures a seamless flow of information, enabling more effective and efficient customer service operations.</p>
+        <p>Corinna AI integrates effortlessly with your existing systems, including CRM, email marketing, and payment gateways like Stripe. This integration ensures a seamless flow of information, enabling more effective and efficient customer service operations.</p>
 
         <h3>Data-Driven Insights</h3>
         <p>Conversational AI collects and analyzes data from customer interactions, providing valuable insights into customer behavior, preferences, and pain points. These insights can be used to improve products, services, and customer engagement strategies.</p>
 
         <h3>Real-Time Support</h3>
-        <p>Whether it’s answering frequently asked questions, booking appointments, or processing payments, SmartRep AI provides real-time support to customers. This immediate assistance helps in resolving issues quickly, leading to a more positive customer experience.</p>
+        <p>Whether it’s answering frequently asked questions, booking appointments, or processing payments, Corinna AI provides real-time support to customers. This immediate assistance helps in resolving issues quickly, leading to a more positive customer experience.</p>
 
         <h3>Multichannel Support</h3>
-        <p>SmartRep AI can be deployed across various channels, including websites, social media, and messaging apps. This multichannel presence ensures that customers can reach out for support through their preferred communication method.</p>
+        <p>Corinna AI can be deployed across various channels, including websites, social media, and messaging apps. This multichannel presence ensures that customers can reach out for support through their preferred communication method.</p>
 
         <h3>Cost-Effective Solution</h3>
         <p>Implementing conversational AI reduces the need for a large customer service team, leading to significant cost savings. It also minimizes the costs associated with training and managing human agents.</p>
 
-        <p>By integrating SmartRep AI into your customer service strategy, you can deliver exceptional support, enhance customer loyalty, and drive business growth. Embrace the future of customer service with conversational AI and transform the way you interact with your customers.</p>
+        <p>By integrating Corinna AI into your customer service strategy, you can deliver exceptional support, enhance customer loyalty, and drive business growth. Embrace the future of customer service with conversational AI and transform the way you interact with your customers.</p>
       `,
       createdAt: "2024-02-02T10:00:00Z"
     },

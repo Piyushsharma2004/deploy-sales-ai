@@ -28,15 +28,15 @@ const Contact: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
           <div>
             <h2 className="font-semibold">Address:</h2>
-            <p>1234 Street, NYC, USA</p>
+            <p>JECRC Jaiput , India</p>
           </div>
           <div>
             <h2 className="font-semibold">Phone:</h2>
-            <p>(123) 456-7890</p>
+            <p>(+91) 94***-***74</p>
           </div>
           <div>
             <h2 className="font-semibold">Email:</h2>
-            <p>info@smartrepai.com</p>
+            <p>https://github.com/Piyushsharma2004</p>
           </div>
         </div>
         <form ref={form} onSubmit={sendEmail} className="space-y-4">
