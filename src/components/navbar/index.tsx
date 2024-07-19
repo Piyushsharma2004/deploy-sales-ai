@@ -11,7 +11,7 @@ function NavBar() {
         <Link href="/" className="flex items-center -ml-3">
           <Image src="/logo.png" width={60} height={60} alt="logo" />
           <span className="text-xl font-bold -ml-3">
-            Smart<span className="text-orange">Rep</span> AI
+            Corinna<span className="text-orange">AI</span> 
           </span>
         </Link>
       </div>
