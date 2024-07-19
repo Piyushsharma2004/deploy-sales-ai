@@ -36,7 +36,7 @@ const Contact: React.FC = () => {
           </div>
           <div>
             <h2 className="font-semibold">Email:</h2>
-            <p>https://github.com/Piyushsharma2004</p>
+            <p>@Piyushsharmanova</p>
           </div>
         </div>
         <form ref={form} onSubmit={sendEmail} className="space-y-4">
