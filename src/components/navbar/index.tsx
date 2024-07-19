@@ -9,7 +9,7 @@ function NavBar() {
     <div className="flex justify-between items-center px-2 py-1 font-bold border-b border-solid border-zinc-100 leading-[154.5%] max-md:flex-wrap max-md:px-2">
       <div className="flex items-center justify-center self-stretch my-auto text-2xl tracking-tighter text-neutral-700">
         <Link href="/" className="flex items-center -ml-3">
-          <Image src="/logo.png" width={60} height={60} alt="logo" />
+          <Image src="/logo.png" width={40} height={40} alt="logo" />
           <span className="text-xl font-bold -ml-3">
             Corinna<span className="text-orange">AI</span> 
           </span>

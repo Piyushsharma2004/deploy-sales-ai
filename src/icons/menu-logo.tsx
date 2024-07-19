@@ -11,8 +11,8 @@ export const MenuLogo = ({ onClick }: MenuLogoProps) => {
       <Image
         src="/logo.png"
         alt="Logo"
-        width={60}
-        height={60}
+        width={40}
+        height={40}
         priority
       />
     </div>

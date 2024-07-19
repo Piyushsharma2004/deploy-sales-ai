@@ -11,8 +11,8 @@ const Footer = () => {
           <aside className="flex items-center justify-center sm:justify-start mb-0 md:-mb-3 mt-0 md:-mt-5 -ml-[1rem]">
             <Image
               src={'/logo.png'}
-              width={60}
-              height={60}
+              width={40}
+              height={40}
               alt="logo"
             />
             <h2 className="text-xl font-bold -ml-3">Smart<span className='text-orange'>Rep</span> AI</h2>
